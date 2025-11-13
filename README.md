@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @sangambaral17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Sangam Baral  
 
-<!---
-sangambaral17/sangambaral17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Software Engineer** | Passionate about building efficient and user-focused solutions.  
+
+🌱 Currently exploring **.NET**, **JavaScript**, and modern **web technologies** to strengthen my full-stack skills.  
+💡 I enjoy solving problems, optimizing code, and learning new technologies that make an impact.  
+🤝 Open to collaborating on innovative projects and startups, especially in the Nepal tech ecosystem.  
+
+📫 **Reach me at:** [sangambaral17@gmail.com](mailto:sangambaral9@gmail.com)  
+⚡ **Fun fact:** I love blending creativity with logic — whether it’s coding, design, or game development.  
